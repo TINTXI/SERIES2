@@ -1,0 +1,72 @@
+{
+"name": "TEHERÁN",
+"author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+"image": "https://i.postimg.cc/wTMc1YCG/IMG-20241106-214814-242.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Ciudad De Dios La Lucha No Para.w3u",
+"telegram": "TINWORLD_3_0",
+"info":"",
+"groups":
+           [
+                      {
+		"name": "Temporada 01",
+ 		"image": "https://i.postimg.cc/wTMc1YCG/IMG-20241106-214814-242.jpg",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"",
+ 				"image":"https://i.postimg.cc/wTMc1YCG/IMG-20241106-214814-242.jpg",
+ 				"url":"https://filemoon.sx/d/2yf5wxuvmh84",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"",
+				"image":"https://i.postimg.cc/wTMc1YCG/IMG-20241106-214814-242.jpg",
+				"url":"https://filemoon.sx/d/0k879fdepc4s",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"",
+				"image":"https://i.postimg.cc/wTMc1YCG/IMG-20241106-214814-242.jpg",
+				"url":"https://filemoon.sx/d/qveg6izszoly",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"",
+				"image":"https://i.postimg.cc/wTMc1YCG/IMG-20241106-214814-242.jpg",
+				"url":"https://filemoon.sx/d/1wn8nssa44ty",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"",  
+				"image":"https://i.postimg.cc/wTMc1YCG/IMG-20241106-214814-242.jpg",
+				"url":"https://filemoon.sx/d/i9p3u1odi3y6",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"",  
+				"image":"https://i.postimg.cc/wTMc1YCG/IMG-20241106-214814-242.jpg",
+				"url":"https://filemoon.sx/d/sve5s6squ2n2",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
