@@ -1,100 +1,100 @@
 {
-"name": "RESPIRA",
-"author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
-"image": "https://i.postimg.cc/BnQMcpBZ/Respira-Serie-de-TV-165509751-large.jpg",
-"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie%20RESPIRA.w3u",
-"telegram": "TINWORLD_3_0",
-"info":"",
-"stations":
-           [
-              {
-	      "name": "CAPITULO 1",
-        "image": "https://i.postimg.cc/BnQMcpBZ/Respira-Serie-de-TV-165509751-large.jpg",
-        "url": "https://filemoon.sx/d/o39xon7bosct/Respira_S01E01_Por_encima_de_todo.mp4",
-       	"info": "2024[TINWORLD]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	      "userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-        	    {
-	      "name": "CAPITULO 2",
-        "image": "https://i.postimg.cc/BnQMcpBZ/Respira-Serie-de-TV-165509751-large.jpg",
-        "url": "https://filemoon.sx/d/wuyhyzjhfzxg/Respira_S01E02_Madera_de_m_dico.mp4",
-       	"info": "2024[TINWORLD]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	      "userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-       	    {
-	      "name": "CAPITULO 3",
-        "image": "https://i.postimg.cc/BnQMcpBZ/Respira-Serie-de-TV-165509751-large.jpg",
-        "url": "https://filemoon.sx/d/n6o45usmy8vv/Respira_S01E03_Paramos.mp4",
-       	"info": "2024[TINWORLD]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	      "userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-        	    {
-	      "name": "CAPITULO 4",
-        "image": "https://i.postimg.cc/BnQMcpBZ/Respira-Serie-de-TV-165509751-large.jpg",
-        "url": "https://filemoon.sx/d/jki3v0el1s54/Respira_S01E04_Conf_o_en_ti.mp4",
-       	"info": "2024[TINWORLD]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	      "userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-        	    {
-	      "name": "CAPITULO 5",
-        "image": "https://i.postimg.cc/BnQMcpBZ/Respira-Serie-de-TV-165509751-large.jpg",
-        "url": "https://filemoon.sx/d/b0ehza1o1x59/Respira_S01E05_Huelga.mp4",
-       	"info": "2024[TINWORLD]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	      "userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-        	    {
-	      "name": "CAPITULO 6",
-        "image": "https://i.postimg.cc/BnQMcpBZ/Respira-Serie-de-TV-165509751-large.jpg",
-        "url": "https://filemoon.sx/d/to8wj5v0m6j0/Respira_S01E06_El__ltimo_hombre_en_pie.mp4",
-       	"info": "2024[TINWORLD]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	      "userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-        	    {
-	      "name": "CAPITULO 7",
-        "image": "https://i.postimg.cc/BnQMcpBZ/Respira-Serie-de-TV-165509751-large.jpg",
-        "url": "https://filemoon.sx/d/38zrb9udkyro/Respira_S01E07_Tierra_quemada.mp4",
-       	"info": "2024[TINWORLD]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	      "userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-        	    {
-	      "name": "CAPITULO 8",
-        "image": "https://i.postimg.cc/BnQMcpBZ/Respira-Serie-de-TV-165509751-large.jpg",
-        "url": "https://filemoon.sx/d/y1ahn4tahrs1/Respira_S01E08_Gota_fr_a.mp4",
-       	"info": "2024[TINWORLD]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	      "userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	}
-
-      ]
-   }
+    "name": "RESPIRA",
+    "author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+    "image": "https://i.postimg.cc/BnQMcpBZ/Respira-Serie-de-TV-165509751-large.jpg",
+    "url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie%20RESPIRA.w3u",
+    "telegram": "TINWORLD_3_0",
+    "info":"",
+    "stations":
+               [
+                  {
+              "name": "CAPITULO 1",
+            "image": "https://i.postimg.cc/BnQMcpBZ/Respira-Serie-de-TV-165509751-large.jpg",
+            "url": "https://filemoon.to/d/o39xon7bosct/Respira_S01E01_Por_encima_de_todo.mp4",
+               "info": "2024[TINWORLD]",
+               "embed": "",
+               "isHost": "true",
+               "online": "true",
+              "userAgent":"PlusMediaPlayer/0.0.9",
+               "import": false
+               },
+                    {
+              "name": "CAPITULO 2",
+            "image": "https://i.postimg.cc/BnQMcpBZ/Respira-Serie-de-TV-165509751-large.jpg",
+            "url": "https://filemoon.to/d/wuyhyzjhfzxg/Respira_S01E02_Madera_de_m_dico.mp4",
+               "info": "2024[TINWORLD]",
+               "embed": "",
+               "isHost": "true",
+               "online": "true",
+              "userAgent":"PlusMediaPlayer/0.0.9",
+               "import": false
+               },
+                   {
+              "name": "CAPITULO 3",
+            "image": "https://i.postimg.cc/BnQMcpBZ/Respira-Serie-de-TV-165509751-large.jpg",
+            "url": "https://filemoon.to/d/n6o45usmy8vv/Respira_S01E03_Paramos.mp4",
+               "info": "2024[TINWORLD]",
+               "embed": "",
+               "isHost": "true",
+               "online": "true",
+              "userAgent":"PlusMediaPlayer/0.0.9",
+               "import": false
+               },
+                    {
+              "name": "CAPITULO 4",
+            "image": "https://i.postimg.cc/BnQMcpBZ/Respira-Serie-de-TV-165509751-large.jpg",
+            "url": "https://filemoon.to/d/jki3v0el1s54/Respira_S01E04_Conf_o_en_ti.mp4",
+               "info": "2024[TINWORLD]",
+               "embed": "",
+               "isHost": "true",
+               "online": "true",
+              "userAgent":"PlusMediaPlayer/0.0.9",
+               "import": false
+               },
+                    {
+              "name": "CAPITULO 5",
+            "image": "https://i.postimg.cc/BnQMcpBZ/Respira-Serie-de-TV-165509751-large.jpg",
+            "url": "https://filemoon.to/d/b0ehza1o1x59/Respira_S01E05_Huelga.mp4",
+               "info": "2024[TINWORLD]",
+               "embed": "",
+               "isHost": "true",
+               "online": "true",
+              "userAgent":"PlusMediaPlayer/0.0.9",
+               "import": false
+               },
+                    {
+              "name": "CAPITULO 6",
+            "image": "https://i.postimg.cc/BnQMcpBZ/Respira-Serie-de-TV-165509751-large.jpg",
+            "url": "https://filemoon.to/d/to8wj5v0m6j0/Respira_S01E06_El__ltimo_hombre_en_pie.mp4",
+               "info": "2024[TINWORLD]",
+               "embed": "",
+               "isHost": "true",
+               "online": "true",
+              "userAgent":"PlusMediaPlayer/0.0.9",
+               "import": false
+               },
+                    {
+              "name": "CAPITULO 7",
+            "image": "https://i.postimg.cc/BnQMcpBZ/Respira-Serie-de-TV-165509751-large.jpg",
+            "url": "https://filemoon.to/d/38zrb9udkyro/Respira_S01E07_Tierra_quemada.mp4",
+               "info": "2024[TINWORLD]",
+               "embed": "",
+               "isHost": "true",
+               "online": "true",
+              "userAgent":"PlusMediaPlayer/0.0.9",
+               "import": false
+               },
+                    {
+              "name": "CAPITULO 8",
+            "image": "https://i.postimg.cc/BnQMcpBZ/Respira-Serie-de-TV-165509751-large.jpg",
+            "url": "https://filemoon.to/d/y1ahn4tahrs1/Respira_S01E08_Gota_fr_a.mp4",
+               "info": "2024[TINWORLD]",
+               "embed": "",
+               "isHost": "true",
+               "online": "true",
+              "userAgent":"PlusMediaPlayer/0.0.9",
+               "import": false
+               }
+    
+          ]
+       }
