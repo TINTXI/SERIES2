@@ -1,332 +1,332 @@
 {
-"name": "FROM",
-"author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
-"image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
-"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie FROM.w3u",
-"telegram": "TINWORLD_3_0",
-"info":"",
-"groups":
-           [
-      {
-        "name": "TEMPORADA 1",
-        "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
-        "stations": 
-        [
+    "name": "FROM",
+    "author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+    "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
+    "url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie FROM.w3u",
+    "telegram": "TINWORLD_3_0",
+    "info":"",
+    "groups":
+               [
           {
-            "name": "CAPITULO 1",
+            "name": "TEMPORADA 1",
             "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
-            "url": "https://filemoon.sx/d/xag0j4evfzw3/From_1x01.mp4",
-            "info": "[Español 2022]",
-            "embed": "",
-            "isHost": "true",
-            "online": "true",
-            "userAgent": "PlusMediaPlayer/0.0.9"
+            "stations": 
+            [
+              {
+                "name": "CAPITULO 1",
+                "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
+                "url": "https://filemoon.to/d/xag0j4evfzw3/From_1x01.mp4",
+                "info": "[Español 2022]",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9"
+              },
+              {
+                "name": "CAPITULO 2",
+                "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
+                "url": "https://filemoon.to/d/nr0q3u12uij0/From_1x02.mp4",
+                "info": "[Español 2022]",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9"
+              },
+              {
+                "name": "CAPITULO 3",
+                "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
+                "url": "https://filemoon.to/d/f7y1mbh3k7ya/From_1x03.mp4",
+                "info": "[Español 2022]",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9"
+              },
+              {
+                "name": "CAPITULO 4",
+                "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
+                "url": "https://filemoon.to/d/8akm1i9wi1p9/From_1x04.mp4",
+                "info": "[Español 2022]",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9"
+              },
+              {
+                "name": "CAPITULO 5",
+                "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
+                "url": "https://filemoon.to/d/kqt5j36skrj6/From_1x05.mp4",
+                "info": "[Español 2022]",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9"
+              },
+              {
+                "name": "CAPITULO 6",
+                "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
+                "url": "https://filemoon.to/d/nfl5xbz6ktk2/From_1x06.mp4",
+                "info": "[Español 2022]",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9"
+              },
+              {
+                "name": "CAPITULO 7",
+                "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
+                "url": "https://filemoon.to/d/n5q0wvnm5e8q/From_1x07.mp4",
+                "info": "[Español 2022]",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9"
+              },
+              {
+                "name": "CAPITULO 8",
+                "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
+                "url": "https://filemoon.to/d/w3gj8l1ewcyy/From_1x08.mp4",
+                "info": "[Español 2022]",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9"
+              },
+              {
+                "name": "CAPITULO 9",
+                "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
+                "url": "https://filemoon.to/d/mux766e20v97/From_1x09.mp4",
+                "info": "[Español 2022]",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9"
+              },
+              {
+                "name": "CAPITULO 10",
+                "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
+                "url": "https://filemoon.to/d/x08vofrz28f1/From_1x10__fin_.mp4",
+                "info": "[Español 2022]",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9"
+              }
+            ]
           },
           {
-            "name": "CAPITULO 2",
+            "name": "TEMPORADA 2",
             "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
-            "url": "https://filemoon.sx/d/nr0q3u12uij0/From_1x02.mp4",
-            "info": "[Español 2022]",
-            "embed": "",
-            "isHost": "true",
-            "online": "true",
-            "userAgent": "PlusMediaPlayer/0.0.9"
+            "stations": 
+            [
+              {
+                "name": "CAPITULO 1",
+                "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
+                "url": "https://filemoon.to/d/j6nod9rmgqe1/From_2x01.mp4",
+                "info": "[Español 2022]",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9"
+              },
+              {
+                "name": "CAPITULO 2",
+                "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
+                "url": "https://filemoon.to/d/sq52rcf3arym/From_2x02.mp4",
+                "info": "[Español 2022]",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9"
+              },
+              {
+                "name": "CAPITULO 3",
+                "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
+                "url": "https://filemoon.to/d/vfriu1kioluz/From_2x03.mp4",
+                "info": "[Español 2022]",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9"
+              },
+              {
+                "name": "CAPITULO 4",
+                "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
+                "url": "https://filemoon.to/d/8mha3sqwf33t/From_2x04.mp4",
+                "info": "[Español 2022]",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9"
+              },
+              {
+                "name": "CAPITULO 5",
+                "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
+                "url": "https://filemoon.to/d/pdyy6axhpbad/From_2x05.mp4",
+                "info": "[Español 2022]",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9"
+              },
+              {
+                "name": "CAPITULO 6",
+                "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
+                "url": "https://filemoon.to/d/iqxycw7yyxf3/From_2x06.mp4",
+                "info": "[Español 2022]",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9"
+              },
+              {
+                "name": "CAPITULO 7",
+                "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
+                "url": "https://filemoon.to/d/80dtcevguysu/From_2x07.mp4",
+                "info": "[Español 2022]",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9"
+              },
+              {
+                "name": "CAPITULO 8",
+                "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
+                "url": "https://filemoon.to/d/qrv7zc46m555/From_2x08.mp4",
+                "info": "[Español 2022]",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9"
+              },
+              {
+                "name": "CAPITULO 9",
+                "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
+                "url": "https://filemoon.to/d/bqld32j6gkci/From_2x09.mp4",
+                "info": "[Español 2022]",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9"
+              },
+              {
+                "name": "CAPITULO 10",
+                "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
+                "url": "https://filemoon.to/d/8n8gtgr6cswv/From_2x10__Fin_.mp4",
+                "info": "[Español 2022]",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9"
+              }
+            ]
           },
           {
-            "name": "CAPITULO 3",
-            "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
-            "url": "https://filemoon.sx/d/f7y1mbh3k7ya/From_1x03.mp4",
-            "info": "[Español 2022]",
-            "embed": "",
-            "isHost": "true",
-            "online": "true",
-            "userAgent": "PlusMediaPlayer/0.0.9"
-          },
-          {
-            "name": "CAPITULO 4",
-            "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
-            "url": "https://filemoon.sx/d/8akm1i9wi1p9/From_1x04.mp4",
-            "info": "[Español 2022]",
-            "embed": "",
-            "isHost": "true",
-            "online": "true",
-            "userAgent": "PlusMediaPlayer/0.0.9"
-          },
-          {
-            "name": "CAPITULO 5",
-            "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
-            "url": "https://filemoon.sx/d/kqt5j36skrj6/From_1x05.mp4",
-            "info": "[Español 2022]",
-            "embed": "",
-            "isHost": "true",
-            "online": "true",
-            "userAgent": "PlusMediaPlayer/0.0.9"
-          },
-          {
-            "name": "CAPITULO 6",
-            "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
-            "url": "https://filemoon.sx/d/nfl5xbz6ktk2/From_1x06.mp4",
-            "info": "[Español 2022]",
-            "embed": "",
-            "isHost": "true",
-            "online": "true",
-            "userAgent": "PlusMediaPlayer/0.0.9"
-          },
-          {
-            "name": "CAPITULO 7",
-            "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
-            "url": "https://filemoon.sx/d/n5q0wvnm5e8q/From_1x07.mp4",
-            "info": "[Español 2022]",
-            "embed": "",
-            "isHost": "true",
-            "online": "true",
-            "userAgent": "PlusMediaPlayer/0.0.9"
-          },
-          {
-            "name": "CAPITULO 8",
-            "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
-            "url": "https://filemoon.sx/d/w3gj8l1ewcyy/From_1x08.mp4",
-            "info": "[Español 2022]",
-            "embed": "",
-            "isHost": "true",
-            "online": "true",
-            "userAgent": "PlusMediaPlayer/0.0.9"
-          },
-          {
-            "name": "CAPITULO 9",
-            "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
-            "url": "https://filemoon.sx/d/mux766e20v97/From_1x09.mp4",
-            "info": "[Español 2022]",
-            "embed": "",
-            "isHost": "true",
-            "online": "true",
-            "userAgent": "PlusMediaPlayer/0.0.9"
-          },
-          {
-            "name": "CAPITULO 10",
-            "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
-            "url": "https://filemoon.sx/d/x08vofrz28f1/From_1x10__fin_.mp4",
-            "info": "[Español 2022]",
-            "embed": "",
-            "isHost": "true",
-            "online": "true",
-            "userAgent": "PlusMediaPlayer/0.0.9"
+            "name": "TEMPORADA 3",
+            "image": "https://images.justwatch.com/poster/320190736/s718/temporada-3.jpg",
+            "stations": 
+            [
+              {
+                "name": "CAPITULO 1",
+                "image": "https://images.justwatch.com/poster/320190736/s718/temporada-3.jpg",
+                "url": "https://zacharycollectionmight.com/c3f57paswpzu",
+                "info": "[Español 2024]",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9"
+              },
+              {
+                "name": "CAPITULO 2",
+                "image": "https://images.justwatch.com/poster/320190736/s718/temporada-3.jpg",
+                "url": "https://zacharycollectionmight.com/tvdwf0rf3lmo",
+                "info": "[Español 2024]",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9"
+              },
+              {
+                "name": "CAPITULO 3",
+                "image": "https://images.justwatch.com/poster/320190736/s718/temporada-3.jpg",
+                "url": "https://zacharycollectionmight.com/aiubhcqhyacq",
+                "info": "[Español 2024]",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9"
+              },
+              {
+                "name": "CAPITULO 4",
+                "image": "https://images.justwatch.com/poster/320190736/s718/temporada-3.jpg",
+                "url": "https://filemoon.to/d/nizjnh4rmplu",
+                "info": "[Español 2024]",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9"
+              },
+              {
+                "name": "CAPITULO 5",
+                "image": "https://images.justwatch.com/poster/320190736/s718/temporada-3.jpg",
+                "url": "https://listeamed.net/v/P0poO1B33w15z17",
+                "info": "[Español 2024]",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9"
+              },
+              {
+                "name": "CAPITULO 6",
+                "image": "https://images.justwatch.com/poster/320190736/s718/temporada-3.jpg",
+                "url": "https://listeamed.net/v/KNWlEDLGKJzEkbp",
+                "info": "[Español 2024]",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9"
+              },
+              {
+                "name": "CAPITULO 7",
+                "image": "https://images.justwatch.com/poster/320190736/s718/temporada-3.jpg",
+                "url": "https://filemoon.to/d/czzqyywg4gtg/From._3x07__WEB-DL1080p_.mkv",
+                "info": "[Español 2024]",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9"
+              },
+              {
+                "name": "CAPITULO 8",
+                "image": "https://images.justwatch.com/poster/320190736/s718/temporada-3.jpg",
+                "url": "https://filemoon.to/d/b9g9fnuo4mwg/From_3x08__1080_.mp4",
+                "info": "[Español 2024]",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9"
+              },
+              {
+                "name": "CAPITULO 9",
+                "image": "https://images.justwatch.com/poster/320190736/s718/temporada-3.jpg",
+                "url": "https://listeamed.net/v/8ozgEND6XJJ5mjA",
+                "info": "[Español 2024]",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9"
+              },
+              {
+                "name": "CAPITULO 10",
+                "image": "https://images.justwatch.com/poster/320190736/s718/temporada-3.jpg",
+                "url": "https://listeamed.net/v/MAlwEMWnY4l5J39",
+                "info": "[Español 2024]",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9"
+              }
+            ]
           }
-        ]
-      },
-      {
-        "name": "TEMPORADA 2",
-        "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
-        "stations": 
-        [
-          {
-            "name": "CAPITULO 1",
-            "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
-            "url": "https://filemoon.sx/d/j6nod9rmgqe1/From_2x01.mp4",
-            "info": "[Español 2022]",
-            "embed": "",
-            "isHost": "true",
-            "online": "true",
-            "userAgent": "PlusMediaPlayer/0.0.9"
-          },
-          {
-            "name": "CAPITULO 2",
-            "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
-            "url": "https://filemoon.sx/d/sq52rcf3arym/From_2x02.mp4",
-            "info": "[Español 2022]",
-            "embed": "",
-            "isHost": "true",
-            "online": "true",
-            "userAgent": "PlusMediaPlayer/0.0.9"
-          },
-          {
-            "name": "CAPITULO 3",
-            "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
-            "url": "https://filemoon.sx/d/vfriu1kioluz/From_2x03.mp4",
-            "info": "[Español 2022]",
-            "embed": "",
-            "isHost": "true",
-            "online": "true",
-            "userAgent": "PlusMediaPlayer/0.0.9"
-          },
-          {
-            "name": "CAPITULO 4",
-            "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
-            "url": "https://filemoon.sx/d/8mha3sqwf33t/From_2x04.mp4",
-            "info": "[Español 2022]",
-            "embed": "",
-            "isHost": "true",
-            "online": "true",
-            "userAgent": "PlusMediaPlayer/0.0.9"
-          },
-          {
-            "name": "CAPITULO 5",
-            "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
-            "url": "https://filemoon.sx/d/pdyy6axhpbad/From_2x05.mp4",
-            "info": "[Español 2022]",
-            "embed": "",
-            "isHost": "true",
-            "online": "true",
-            "userAgent": "PlusMediaPlayer/0.0.9"
-          },
-          {
-            "name": "CAPITULO 6",
-            "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
-            "url": "https://filemoon.sx/d/iqxycw7yyxf3/From_2x06.mp4",
-            "info": "[Español 2022]",
-            "embed": "",
-            "isHost": "true",
-            "online": "true",
-            "userAgent": "PlusMediaPlayer/0.0.9"
-          },
-          {
-            "name": "CAPITULO 7",
-            "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
-            "url": "https://filemoon.sx/d/80dtcevguysu/From_2x07.mp4",
-            "info": "[Español 2022]",
-            "embed": "",
-            "isHost": "true",
-            "online": "true",
-            "userAgent": "PlusMediaPlayer/0.0.9"
-          },
-          {
-            "name": "CAPITULO 8",
-            "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
-            "url": "https://filemoon.sx/d/qrv7zc46m555/From_2x08.mp4",
-            "info": "[Español 2022]",
-            "embed": "",
-            "isHost": "true",
-            "online": "true",
-            "userAgent": "PlusMediaPlayer/0.0.9"
-          },
-          {
-            "name": "CAPITULO 9",
-            "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
-            "url": "https://filemoon.sx/d/bqld32j6gkci/From_2x09.mp4",
-            "info": "[Español 2022]",
-            "embed": "",
-            "isHost": "true",
-            "online": "true",
-            "userAgent": "PlusMediaPlayer/0.0.9"
-          },
-          {
-            "name": "CAPITULO 10",
-            "image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
-            "url": "https://filemoon.sx/d/8n8gtgr6cswv/From_2x10__Fin_.mp4",
-            "info": "[Español 2022]",
-            "embed": "",
-            "isHost": "true",
-            "online": "true",
-            "userAgent": "PlusMediaPlayer/0.0.9"
-          }
-        ]
-      },
-      {
-        "name": "TEMPORADA 3",
-        "image": "https://images.justwatch.com/poster/320190736/s718/temporada-3.jpg",
-        "stations": 
-        [
-          {
-            "name": "CAPITULO 1",
-            "image": "https://images.justwatch.com/poster/320190736/s718/temporada-3.jpg",
-            "url": "https://zacharycollectionmight.com/c3f57paswpzu",
-            "info": "[Español 2024]",
-            "embed": "",
-            "isHost": "true",
-            "online": "true",
-            "userAgent": "PlusMediaPlayer/0.0.9"
-          },
-          {
-            "name": "CAPITULO 2",
-            "image": "https://images.justwatch.com/poster/320190736/s718/temporada-3.jpg",
-            "url": "https://zacharycollectionmight.com/tvdwf0rf3lmo",
-            "info": "[Español 2024]",
-            "embed": "",
-            "isHost": "true",
-            "online": "true",
-            "userAgent": "PlusMediaPlayer/0.0.9"
-          },
-          {
-            "name": "CAPITULO 3",
-            "image": "https://images.justwatch.com/poster/320190736/s718/temporada-3.jpg",
-            "url": "https://zacharycollectionmight.com/aiubhcqhyacq",
-            "info": "[Español 2024]",
-            "embed": "",
-            "isHost": "true",
-            "online": "true",
-            "userAgent": "PlusMediaPlayer/0.0.9"
-          },
-          {
-            "name": "CAPITULO 4",
-            "image": "https://images.justwatch.com/poster/320190736/s718/temporada-3.jpg",
-            "url": "https://filemoon.sx/d/nizjnh4rmplu",
-            "info": "[Español 2024]",
-            "embed": "",
-            "isHost": "true",
-            "online": "true",
-            "userAgent": "PlusMediaPlayer/0.0.9"
-          },
-          {
-            "name": "CAPITULO 5",
-            "image": "https://images.justwatch.com/poster/320190736/s718/temporada-3.jpg",
-            "url": "https://listeamed.net/v/P0poO1B33w15z17",
-            "info": "[Español 2024]",
-            "embed": "",
-            "isHost": "true",
-            "online": "true",
-            "userAgent": "PlusMediaPlayer/0.0.9"
-          },
-          {
-            "name": "CAPITULO 6",
-            "image": "https://images.justwatch.com/poster/320190736/s718/temporada-3.jpg",
-            "url": "https://listeamed.net/v/KNWlEDLGKJzEkbp",
-            "info": "[Español 2024]",
-            "embed": "",
-            "isHost": "true",
-            "online": "true",
-            "userAgent": "PlusMediaPlayer/0.0.9"
-          },
-          {
-            "name": "CAPITULO 7",
-            "image": "https://images.justwatch.com/poster/320190736/s718/temporada-3.jpg",
-            "url": "https://filemoon.sx/d/czzqyywg4gtg/From._3x07__WEB-DL1080p_.mkv",
-            "info": "[Español 2024]",
-            "embed": "",
-            "isHost": "true",
-            "online": "true",
-            "userAgent": "PlusMediaPlayer/0.0.9"
-          },
-          {
-            "name": "CAPITULO 8",
-            "image": "https://images.justwatch.com/poster/320190736/s718/temporada-3.jpg",
-            "url": "https://filemoon.sx/d/b9g9fnuo4mwg/From_3x08__1080_.mp4",
-            "info": "[Español 2024]",
-            "embed": "",
-            "isHost": "true",
-            "online": "true",
-            "userAgent": "PlusMediaPlayer/0.0.9"
-          },
-          {
-            "name": "CAPITULO 9",
-            "image": "https://images.justwatch.com/poster/320190736/s718/temporada-3.jpg",
-            "url": "https://listeamed.net/v/8ozgEND6XJJ5mjA",
-            "info": "[Español 2024]",
-            "embed": "",
-            "isHost": "true",
-            "online": "true",
-            "userAgent": "PlusMediaPlayer/0.0.9"
-          },
-          {
-            "name": "CAPITULO 10",
-            "image": "https://images.justwatch.com/poster/320190736/s718/temporada-3.jpg",
-            "url": "https://listeamed.net/v/MAlwEMWnY4l5J39",
-            "info": "[Español 2024]",
-            "embed": "",
-            "isHost": "true",
-            "online": "true",
-            "userAgent": "PlusMediaPlayer/0.0.9"
-          }
-        ]
-      }
-   ]
-}
+       ]
+    }
