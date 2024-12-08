@@ -1,0 +1,45 @@
+{
+    "name": "SOMBRA TIERRA",
+    "author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+    "image": "https://pics.filmaffinity.com/la_sombra_de_la_tierra-810968825-large.jpg",
+    "url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Sombra Tierra.w3u",
+    "telegram": "TINWORLD_3_0",
+    "info":"",
+    "stations":
+               [
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/la_sombra_de_la_tierra-810968825-large.jpg",
+"url": "https://listeamed.net/v/27BaOnaKG9BEMDX",
+"info": "[Español 2024]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/la_sombra_de_la_tierra-810968825-large.jpg",
+"url": "https://filemoon.to/d/5896kh1xmwkw",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"info": "[Español 2024]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/la_sombra_de_la_tierra-810968825-large.jpg",
+"url": "https://listeamed.net/v/qL0YEyzXdMKODRX",
+"info": "[Español 2024]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+
+]
+}
