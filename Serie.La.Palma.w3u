@@ -1,0 +1,56 @@
+{
+"name": "PALMA, LA",
+"author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+"image": "https://pics.filmaffinity.com/1992-689216468-large.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie.La.Palma.w3u",
+"telegram": "TINWORLD_3_0",
+"info":"",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/la_palma-625058003-large.jpg",
+"url": "https://listeamed.net/v/QNB7xAWbbW0O0WG",
+"info": "[Español 2024]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/la_palma-625058003-large.jpg",
+"url": "https://listeamed.net/v/rabVOQDqqD3EKdW",
+"info": "[Español 2024]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/la_palma-625058003-large.jpg",
+"url": "https://listeamed.net/v/Ro7kOVJqqJqOZWB",
+"info": "[Español 2024]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://pics.filmaffinity.com/la_palma-625058003-large.jpg",
+"url": "https://listeamed.net/v/k3gG5q8ww8jO1N2",
+"info": "[Español 2024]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+
+]
+}
