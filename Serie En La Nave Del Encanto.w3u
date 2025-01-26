@@ -1,39 +1,38 @@
 {
-    {
-    "name": "En La Nave Del Encanto",
-    "author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
-    "image": "https://i.postimg.cc/TP9H2dg9/IMG-20250125-182418-138.jpg",
-    "url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie En La Nave Del Encanto.w3u",
-    "telegram": "TINWORLD_3_0",
-    "info":"",
-    "stations":
-               [
-    {
- 		"name": "Episodio 01",
- 		"info":"",
- 		"image":"https://i.postimg.cc/TP9H2dg9/IMG-20250125-182418-138.jpg",
- 		"url":"https://ghbrisk.com/9mz9lh1sagcg",
-		"userAgent":"PlusMediaPlayer/0.0.9",
- 		"isHost":"true",
- 		"online":"true"
-		},
-		{
-		"name": "Episodio 02",
-		"info":"",
-		"image":"https://i.postimg.cc/TP9H2dg9/IMG-20250125-182418-138.jpg",
-		"url":"https://ghbrisk.com/varb4aicxwm8",
-		"userAgent":"PlusMediaPlayer/0.0.9",
-		"isHost":"true",
-		"online":"true"
-		},
-		{
-		"name": "Episodio 03",
-		"info":"",
-		"image":"https://i.postimg.cc/TP9H2dg9/IMG-20250125-182418-138.jpg",
-		"url":"https://ghbrisk.com/kia560ee02pz",
-		"userAgent":"PlusMediaPlayer/0.0.9",
-		"isHost":"true",
-		"online":"true"
+"name": "En La Nave Del Encanto",
+"author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+"image": "https://i.postimg.cc/TP9H2dg9/IMG-20250125-182418-138.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie En La Nave Del Encanto.w3u",
+"telegram": "TINWORLD_3_0",
+"info":"2025",
+"stations":
+[
+{
+"name": "Episodio 01",
+"info":"2025",
+"image":"https://i.postimg.cc/TP9H2dg9/IMG-20250125-182418-138.jpg",
+"url":"https://ghbrisk.com/9mz9lh1sagcg",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"isHost":"true",
+"online":"true"
+},
+{
+"name": "Episodio 02",
+"info":"2025",
+"image":"https://i.postimg.cc/TP9H2dg9/IMG-20250125-182418-138.jpg",
+"url":"https://ghbrisk.com/varb4aicxwm8",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"isHost":"true",
+"online":"true"
+},
+{
+"name": "Episodio 03",
+"info":"2025",
+"image":"https://i.postimg.cc/TP9H2dg9/IMG-20250125-182418-138.jpg",
+"url":"https://ghbrisk.com/kia560ee02pz",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"isHost":"true",
+"online":"true"
 }
 ]
 }
