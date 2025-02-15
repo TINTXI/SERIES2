@@ -1,235 +1,275 @@
-{"name": "VALERIA",
+{
+"name": "VALERIA",
+"author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+"image": "https://www.dl.dropboxusercontent.com/s/mq3j7d3u44rrmdv/serie-valeria1.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie.Valeria.w3u",
+"telegram": "TINWORLD_3_0",
+"info":"",
+"groups":
+[
+{
+"name": "Temporada 1",
 "image": "https://pics.filmaffinity.com/valeria-180619364-large.jpg",
-"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20VALERIA.w3u",
-"info": "bY AdriDeCai",
-"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"telegram": "@YIsus_mEx",
-"groups":[
+"stations": 
+[
 
-{"name": "Temporada 1",
-"image": "https://pics.filmaffinity.com/valeria-180619364-large.jpg",
-"stations": [
-
-{"name": "Capitulo 1",
+{
+"name": "Capitulo 1",
 "image": "https://www.dl.dropboxusercontent.com/s/mq3j7d3u44rrmdv/serie-valeria1.jpg",
 "url": "https://nikaplayerr.com/file/eijoijgu76ao",
 "embed": "",
 "online": "true",
-"isHost": "true"},
-
-{"name": "Capitulo 2",
+"isHost": "true"
+},
+{
+"name": "Capitulo 2",
 "image": "https://www.dl.dropboxusercontent.com/s/mq3j7d3u44rrmdv/serie-valeria1.jpg",
 "url": "https://nikaplayerr.com/file/59dv1dfz169t",
 "embed": "",
 "online": "true",
-"isHost": "true"},
-
-{"name": "Capitulo 3",
+"isHost": "true"
+},
+{
+"name": "Capitulo 3",
 "image": "https://www.dl.dropboxusercontent.com/s/mq3j7d3u44rrmdv/serie-valeria1.jpg",
 "url": "https://nikaplayerr.com/file/8l8fhsz01q5b",
 "embed": "",
 "online": "true",
-"isHost": "true"},
-
-{"name": "Capitulo 4",
+"isHost": "true"
+},
+{
+"name": "Capitulo 4",
 "image": "https://www.dl.dropboxusercontent.com/s/mq3j7d3u44rrmdv/serie-valeria1.jpg",
 "url": "https://nikaplayerr.com/file/a77zjhm0gxzx",
 "embed": "",
 "online": "true",
-"isHost": "true"},
-
+"isHost": "true"
+},
 {"name": "Capitulo 5",
 "image": "https://www.dl.dropboxusercontent.com/s/mq3j7d3u44rrmdv/serie-valeria1.jpg",
 "url": "https://nikaplayerr.com/file/b3auv6q5m6se",
 "embed": "",
 "online": "true",
-"isHost": "true"},
-
+"isHost": "true"
+},
 {"name": "Capitulo 6",
 "image": "https://www.dl.dropboxusercontent.com/s/mq3j7d3u44rrmdv/serie-valeria1.jpg",
 "url": "https://nikaplayerr.com/file/hkdw0x2bp43c",
 "embed": "",
 "online": "true",
-"isHost": "true"},
-
-{"name": "Capitulo 7",
+"isHost": "true"
+},
+{
+"name": "Capitulo 7",
 "image": "https://www.dl.dropboxusercontent.com/s/mq3j7d3u44rrmdv/serie-valeria1.jpg",
 "url": "https://nikaplayerr.com/file/tdhjf667pgoq",
 "embed": "",
 "online": "true",
-"isHost": "true"},
-
-{"name": "Capitulo 8",
+"isHost": "true"
+},
+{
+"name": "Capitulo 8",
 "image": "https://www.dl.dropboxusercontent.com/s/mq3j7d3u44rrmdv/serie-valeria1.jpg",
 "url": "https://nikaplayerr.com/file/oiasydwke8o3",
 "embed": "",
 "online": "true",
-"isHost": "true"}]},
-
-
-{"name": "Temporada 2",
+"isHost": "true"
+}
+]
+},
+{
+"name": "Temporada 2",
 "image": "https://pics.filmaffinity.com/valeria-180619364-large.jpg",
-"stations": [
-
-{"name": "Capitulo 1",
+"stations": 
+[
+{
+"name": "Capitulo 1",
 "image": "https://www.dl.dropboxusercontent.com/s/3j9g1wvb45h8k5o/serie-valeria2.jpg",
 "url": "https://nikaplayerr.com/file/db7luee4ydam",
 "embed": "",
 "online": "true",
-"isHost": "true"},
-
-{"name": "Capitulo 2",
+"isHost": "true"
+},
+{
+"name": "Capitulo 2",
 "image": "https://www.dl.dropboxusercontent.com/s/3j9g1wvb45h8k5o/serie-valeria2.jpg",
 "url": "https://nikaplayerr.com/file/5wn56k6vts51",
 "embed": "",
 "online": "true",
-"isHost": "true"},
-
-{"name": "Capitulo 3",
+"isHost": "true"
+},
+{
+"name": "Capitulo 3",
 "image": "https://www.dl.dropboxusercontent.com/s/3j9g1wvb45h8k5o/serie-valeria2.jpg",
 "url": "https://nikaplayerr.com/file/q63far92lupd",
 "embed": "",
 "online": "true",
-"isHost": "true"},
-
-{"name": "Capitulo 4",
+"isHost": "true"
+},
+{
+"name": "Capitulo 4",
 "image": "https://www.dl.dropboxusercontent.com/s/3j9g1wvb45h8k5o/serie-valeria2.jpg",
 "url": "https://nikaplayerr.com/file/0bee6lkbslsk",
 "embed": "",
 "online": "true",
-"isHost": "true"},
-
-{"name": "Capitulo 5",
+"isHost": "true"
+},
+{
+"name": "Capitulo 5",
 "image": "https://www.dl.dropboxusercontent.com/s/3j9g1wvb45h8k5o/serie-valeria2.jpg",
 "url": "https://nikaplayerr.com/file/1uupni99hhw5",
 "embed": "",
 "online": "true",
-"isHost": "true"},
-
-{"name": "Capitulo 6",
+"isHost": "true"
+},
+{
+"name": "Capitulo 6",
 "image": "https://www.dl.dropboxusercontent.com/s/3j9g1wvb45h8k5o/serie-valeria2.jpg",
 "url": "https://nikaplayerr.com/file/m2etrjqi79sr",
 "embed": "",
 "online": "true",
-"isHost": "true"},
-
-{"name": "Capitulo 7",
+"isHost": "true"
+},
+{
+"name": "Capitulo 7",
 "image": "https://www.dl.dropboxusercontent.com/s/3j9g1wvb45h8k5o/serie-valeria2.jpg",
 "url": "https://nikaplayerr.com/file/6ifhcapdt1gg",
 "embed": "",
 "online": "true",
-"isHost": "true"},
-
+"isHost": "true"
+},
 {"name": "Capitulo 8",
 "image": "https://www.dl.dropboxusercontent.com/s/3j9g1wvb45h8k5o/serie-valeria2.jpg",
 "url": "https://nikaplayerr.com/file/i1gb5az6bpa6",
 "embed": "",
 "online": "true",
-"isHost": "true"}]},
-
+"isHost": "true"
+}
+]
+},
 {"name": "Temporada 3",
 "image": "https://pics.filmaffinity.com/valeria-180619364-large.jpg",
-"stations": [
-
-{"name": "Capitulo 1",
+"stations": 
+[
+{
+"name": "Capitulo 1",
 "image": "https://www.dl.dropboxusercontent.com/s/3j9g1wvb45h8k5o/serie-valeria2.jpg",
 "url": "https://nikaplayerr.com/file/9kkm5cx9f62u",
 "embed": "",
 "online": "true",
-"isHost": "true"},
-
-{"name": "Capitulo 2",
+"isHost": "true"
+},
+{
+"name": "Capitulo 2",
 "image": "https://www.dl.dropboxusercontent.com/s/3j9g1wvb45h8k5o/serie-valeria2.jpg",
 "url": "https://nikaplayerr.com/file/m01rwa21pn23",
 "embed": "",
 "online": "true",
-"isHost": "true"},
-
-{"name": "Capitulo 3",
+"isHost": "true"
+},
+{
+"name": "Capitulo 3",
 "image": "https://www.dl.dropboxusercontent.com/s/3j9g1wvb45h8k5o/serie-valeria2.jpg",
 "url": "https://nikaplayerr.com/file/ambdfexl3prh",
 "embed": "",
 "online": "true",
-"isHost": "true"},
-
-{"name": "Capitulo 4",
+"isHost": "true"
+},
+{
+"name": "Capitulo 4",
 "image": "https://www.dl.dropboxusercontent.com/s/3j9g1wvb45h8k5o/serie-valeria2.jpg",
 "url": "https://nikaplayerr.com/file/kl9h41ke1mxo",
 "embed": "",
 "online": "true",
-"isHost": "true"},
-
-{"name": "Capitulo 5",
+"isHost": "true"
+},
+ñ
+{
+"name": "Capitulo 5",
 "image": "https://www.dl.dropboxusercontent.com/s/3j9g1wvb45h8k5o/serie-valeria2.jpg",
 "url": "https://nikaplayerr.com/file/ijyw0ncpvm0f",
 "embed": "",
 "online": "true",
-"isHost": "true"},
-
-{"name": "Capitulo 6",
+"isHost": "true"
+},
+{
+"name": "Capitulo 6",
 "image": "https://www.dl.dropboxusercontent.com/s/3j9g1wvb45h8k5o/serie-valeria2.jpg",
 "url": "https://nikaplayerr.com/file/y1mbuokbasul",
 "embed": "",
 "online": "true",
-"isHost": "true"},
-
+"isHost": "true"
+},
 {"name": "Capitulo 7",
 "image": "https://www.dl.dropboxusercontent.com/s/3j9g1wvb45h8k5o/serie-valeria2.jpg",
 "url": "https://nikaplayerr.com/file/jg4w0u9utss2",
 "embed": "",
 "online": "true",
-"isHost": "true"},
-
+"isHost": "true"
+},
 {"name": "Capitulo 8",
 "image": "https://www.dl.dropboxusercontent.com/s/3j9g1wvb45h8k5o/serie-valeria2.jpg",
 "url": "https://nikaplayerr.com/file/eefhbwiez3pq",
 "embed": "",
 "online": "true",
-"isHost": "true"}]},
-
-{"name": "Temporada 4",
+"isHost": "true"
+}
+]
+},
+{
+"name": "Temporada 4",
 "image": "https://pics.filmaffinity.com/valeria-180619364-large.jpg",
-"stations": [
-
-{"name": "Capitulo 1",
+"stations": 
+[
+{
+"name": "Capitulo 1",
 "image": "https://www.dl.dropboxusercontent.com/s/3j9g1wvb45h8k5o/serie-valeria2.jpg",
 "url": "https://nikaplayerr.com/file/rbc0l4k7mfta",
 "embed": "",
 "online": "true",
-"isHost": "true"},
-
-{"name": "Capitulo 2",
+"isHost": "true"
+},
+{
+"name": "Capitulo 2",
 "image": "https://www.dl.dropboxusercontent.com/s/3j9g1wvb45h8k5o/serie-valeria2.jpg",
 "url": "https://nikaplayerr.com/file/wi7jaoyddxw6",
 "embed": "",
 "online": "true",
-"isHost": "true"},
-
-{"name": "Capitulo 3",
+"isHost": "true"
+},
+{
+"name": "Capitulo 3",
 "image": "https://www.dl.dropboxusercontent.com/s/3j9g1wvb45h8k5o/serie-valeria2.jpg",
 "url": "https://nikaplayerr.com/file/j1d9y9poneor",
 "embed": "",
 "online": "true",
-"isHost": "true"},
-
-{"name": "Capitulo 4",
+"isHost": "true"
+},
+{
+"name": "Capitulo 4",
 "image": "https://www.dl.dropboxusercontent.com/s/3j9g1wvb45h8k5o/serie-valeria2.jpg",
 "url": "https://nikaplayerr.com/file/fnoc71m6yg1j",
 "embed": "",
 "online": "true",
-"isHost": "true"},
-
-{"name": "Capitulo 5",
+"isHost": "true"
+},
+{
+"name": "Capitulo 5",
 "image": "https://www.dl.dropboxusercontent.com/s/3j9g1wvb45h8k5o/serie-valeria2.jpg",
 "url": "https://nikaplayerr.com/file/03rsd3mpxiuz",
 "embed": "",
 "online": "true",
-"isHost": "true"},
-
-{"name": "Capitulo 6",
+"isHost": "true"
+},
+{
+"name": "Capitulo 6",
 "image": "https://www.dl.dropboxusercontent.com/s/3j9g1wvb45h8k5o/serie-valeria2.jpg",
 "url": "https://nikaplayerr.com/file/5wgp3mkqkmyf",
 "embed": "",
 "online": "true",
-"isHost": "true"}]}
-]}
+"isHost": "true"
+}
+]
+}
+]
+}
