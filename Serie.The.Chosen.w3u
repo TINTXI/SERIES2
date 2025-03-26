@@ -1,0 +1,335 @@
+{
+    "name": "THE CHOSEN",
+    "author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+    "image": "https://i.postimg.cc/8cgqt2yz/los-elegidos-temporada-1.png",
+    "url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie.The.Chosen.w3u",
+    "telegram": "TINWORLD_3_0",
+    "info":"",
+    "groups":
+               [
+        {
+        "name": "Temporada 01",
+        "info":"",
+        "image": "https://i.postimg.cc/8cgqt2yz/los-elegidos-temporada-1.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Capitulo 1x01",
+                "info":"",
+                "image": "https://i.postimg.cc/P5ddtwQ5/los-elegidos-temporada-01.png",
+                "url":"https://filemoon.to/e/2dcdsfcfc3l6",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 1x02",
+                "info":"",
+                "image": "https://i.postimg.cc/P5ddtwQ5/los-elegidos-temporada-01.png",
+                "url":"https://filemoon.to/e/9hs2vit9p5l6",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 1x03",
+                "info":"",
+                "image": "https://i.postimg.cc/P5ddtwQ5/los-elegidos-temporada-01.png",
+                "url":"https://filemoon.to/e/sfnikivshesb",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 1x04",
+                "info":"",
+                "image": "https://i.postimg.cc/P5ddtwQ5/los-elegidos-temporada-01.png",
+                "url":"https://filemoon.to/e/fv1wewnr7v5s",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 1x05",
+                "info":"",
+                "image": "https://i.postimg.cc/P5ddtwQ5/los-elegidos-temporada-01.png",
+                "url":"https://filemoon.to/e/h1zok727vbsx",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 1x06",
+                "info":"",
+                "image": "https://i.postimg.cc/P5ddtwQ5/los-elegidos-temporada-01.png",
+                "url":"https://filemoon.to/e/h3z6qkawyf8q",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 1x07",
+                "info":"",
+                "image": "https://i.postimg.cc/P5ddtwQ5/los-elegidos-temporada-01.png",
+                "url":"https://filemoon.to/e/cbykng8b6txf",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Capitulo 1x08",
+                "info":"",
+                "image": "https://i.postimg.cc/P5ddtwQ5/los-elegidos-temporada-01.png",
+                "url":"https://filemoon.to/e/fhnyu4wtteh6",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                }
+			]
+        },
+		{
+        "name": "Temporada 02",
+        "info":"",
+        "image": "https://i.postimg.cc/SNqB8p2Z/los-elegidos-temporada-2.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Capitulo 2x01",
+                "info":"",
+                "image": "https://i.postimg.cc/VkZp3r7T/los-elegidos-temporada-02.png",
+                "url":"https://filemoon.to/e/7ke7xn3k40l2",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 2x02",
+                "info":"",
+                "image": "https://i.postimg.cc/VkZp3r7T/los-elegidos-temporada-02.png",
+                "url":"https://filemoon.to/e/ognutk67icqh",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 2x03",
+                "info":"",
+                "image": "https://i.postimg.cc/VkZp3r7T/los-elegidos-temporada-02.png",
+                "url":"https://filemoon.to/e/wo2lrjfhoxcd",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 2x04",
+                "info":"",
+                "image": "https://i.postimg.cc/VkZp3r7T/los-elegidos-temporada-02.png",
+                "url":"https://filemoon.to/e/niyhnbj1sbsm",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 2x05",
+                "info":"",
+                "image": "https://i.postimg.cc/VkZp3r7T/los-elegidos-temporada-02.png",
+                "url":"https://filemoon.to/e/pvjwd4xsdg4p",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 2x06",
+                "info":"",
+                "image": "https://i.postimg.cc/VkZp3r7T/los-elegidos-temporada-02.png",
+                "url":"https://filemoon.to/e/9smz5to9jfcm",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 2x07",
+                "info":"",
+                "image": "https://i.postimg.cc/VkZp3r7T/los-elegidos-temporada-02.png",
+                "url":"https://filemoon.to/e/d3ziqqwx6lda",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 2x08",
+                "info":"",
+                "image": "https://i.postimg.cc/VkZp3r7T/los-elegidos-temporada-02.png",
+                "url":"https://filemoon.to/e/wc6ucrlb8ui6",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                }
+			]
+        },
+        {
+        "name": "Temporada 03",
+        "info":"",
+        "image": "https://i.postimg.cc/15JjqVZt/los-elegidos-temporada-3.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Capitulo 3x01",
+                "info":"",
+                "image": "https://i.postimg.cc/zBFjY4zB/los-elegidos-temporada-03.png",
+                "url":"https://filemoon.to/e/1z0jn42oowho",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                },
+		        {
+                "name": "Capitulo 3x02",
+                "info":"",
+                "image": "https://i.postimg.cc/zBFjY4zB/los-elegidos-temporada-03.png",
+                "url":"https://filemoon.to/e/z2ej03wlaskz",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                },
+		        {
+                "name": "Capitulo 3x03",
+                "info":"",
+                "image": "https://i.postimg.cc/zBFjY4zB/los-elegidos-temporada-03.png",
+                "url":"https://filemoon.to/e/ud1b7ybhg9qv",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                },
+		        {
+                "name": "Capitulo 3x04",
+                "info":"",
+                "image": "https://i.postimg.cc/zBFjY4zB/los-elegidos-temporada-03.png",
+                "url":"https://filemoon.to/e/0e53nusdx0lp",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                },
+		        {
+                "name": "Capitulo 3x05",
+                "info":"",
+                "image": "https://i.postimg.cc/zBFjY4zB/los-elegidos-temporada-03.png",
+                "url":"https://filemoon.to/e/x6wiu2tmqvgf",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                },
+		        {
+                "name": "Capitulo 3x06",
+                "info":"",
+                "image": "https://i.postimg.cc/zBFjY4zB/los-elegidos-temporada-03.png",
+                "url":"https://filemoon.to/e/pdix833srp8t",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                },
+		        {
+                "name": "Capitulo 3x07",
+                "info":"",
+                "image": "https://i.postimg.cc/zBFjY4zB/los-elegidos-temporada-03.png",
+                "url":"https://filemoon.to/e/rqzclxkepz4m",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                },
+		        {
+                "name": "Capitulo 3x08",
+                "info":"",
+                "image": "https://i.postimg.cc/zBFjY4zB/los-elegidos-temporada-03.png",
+                "url":"https://filemoon.to/e/w8zhokx5wnls",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                }
+            ]
+        },
+        {
+        "name": "Temporada 04",
+        "info":"",
+        "image": "https://i.postimg.cc/8cgqt2yz/los-elegidos-temporada-1.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Capitulo 4x01",
+                "info":"",
+                "image": "https://i.postimg.cc/8cgqt2yz/los-elegidos-temporada-1.png",
+                "url":"https://filemoon.to/e/j2jq4e2n9walsubtitulado_-_HDFull.tv.mp4",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Capitulo 4x02",
+                "info":"",
+                "image": "https://i.postimg.cc/8cgqt2yz/los-elegidos-temporada-1.png",
+                "url":"https://filemoon.to/e/zs6857jedefxsubtitulado_-_HDFull.tv.mp4",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Capitulo 4x03",
+                "info":"",
+                "image": "https://i.postimg.cc/8cgqt2yz/los-elegidos-temporada-1.png",
+                "url":"https://filemoon.to/e/apu4ff9afp3b",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Capitulo 4x04",
+                "info":"",
+                "image": "https://i.postimg.cc/8cgqt2yz/los-elegidos-temporada-1.png",
+                "url":"https://filemoon.to/e/ppl9qwyz16xk",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Capitulo 4x05",
+                "info":"",
+                "image": "https://i.postimg.cc/8cgqt2yz/los-elegidos-temporada-1.png",
+                "url":"https://filemoon.to/e/ujndshizgfoy",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Capitulo 4x06",
+                "info":"",
+                "image": "https://i.postimg.cc/8cgqt2yz/los-elegidos-temporada-1.png",
+                "url":"https://filemoon.to/e/fztx2m89q8ss",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Capitulo 4x07",
+                "info":"",
+                "image": "https://i.postimg.cc/8cgqt2yz/los-elegidos-temporada-1.png",
+                "url":"https://filemoon.to/e/2fj9rap7adf4",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Capitulo 4x08",
+                "info":"",
+                "image": "https://i.postimg.cc/8cgqt2yz/los-elegidos-temporada-1.png",
+                "url":"https://filemoon.to/e/0tl97j39pki9",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                }
+		    ]
+	    }
+	]
+}
