@@ -1,5 +1,5 @@
 {
-"name": "LOS SIMPSON-TEMP 36",
+"name": "LOS SIMPSON",
 "author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
 "image": "https://i.postimg.cc/9Mjbk596/ANZQ6-UFJS5-C6-LJUICMPAGSEJ7-U.jpg",
 "url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie.Los.Simpson.Temporada.36.w3u",
@@ -8,8 +8,136 @@
 "groups":
 [
 {
-"name": "Los Simpson ",
-"info":"Temporada 36 ",
+"name": "Los Simpson Temp-01",
+"info":"Temporada 01",
+"image":
+"https://i.postimg.cc/k4TV2w4Q/The-Simpsons-The-Complete-1st-Season.jpg",
+"imageScale": "",
+"stations":
+[
+{
+"name": "Episodio 01x01",
+"info":"[Español]",
+"image": "https://i.postimg.cc/k4TV2w4Q/The-Simpsons-The-Complete-1st-Season.jpg",              
+"url":"https://swishsrv.com/e/n6ttsdzmww3k",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"isHost": "true",
+"online":"true"
+},
+{
+"name": "Episodio 01x02",
+"info":"[Español]",
+"image": "https://i.postimg.cc/k4TV2w4Q/The-Simpsons-The-Complete-1st-Season.jpg",
+"url":"https://swishsrv.com/e/6vb74ydrfzcc",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"isHost": "true",
+"online":"true"
+},
+{
+"name": "Episodio 01x03",
+"info":"[Español]",
+"image": "https://i.postimg.cc/k4TV2w4Q/The-Simpsons-The-Complete-1st-Season.jpg",
+"url":"https://swishsrv.com/e/px89hxvo7sk5",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"isHost": "true",
+"online":"true"
+},
+{
+"name": "Episodio 01x04",
+"info":"[Español]",
+"image": "https://i.postimg.cc/k4TV2w4Q/The-Simpsons-The-Complete-1st-Season.jpg",
+"url":"https://swishsrv.com/e/i0i0jrc8duwr",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"isHost": "true",
+"online":"true"
+},
+{
+"name": "Episodio 01x05",
+"info":"[Español]",
+"image": "https://i.postimg.cc/k4TV2w4Q/The-Simpsons-The-Complete-1st-Season.jpg",
+"url":"https://swishsrv.com/e/6iino8b76fij",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"isHost": "true",
+"online":"true"
+},
+{
+"name": "Episodio 01x06",
+"info":"[Español]",
+"image": "https://i.postimg.cc/k4TV2w4Q/The-Simpsons-The-Complete-1st-Season.jpg",
+"url":"https://swishsrv.com/e/yu1glvdw7dpn",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"isHost": "true",
+"online":"true"
+},
+{
+"name": "Episodio 01x07",
+"info":"[Español]",
+"image": "https://i.postimg.cc/k4TV2w4Q/The-Simpsons-The-Complete-1st-Season.jpg",
+"url":"https://swishsrv.com/e/w8p2cjxyc3be",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"isHost": "true",
+"online":"true"
+},
+{
+"name": "Episodio 01x08",
+"info":"[Español]",
+"image": "https://i.postimg.cc/k4TV2w4Q/The-Simpsons-The-Complete-1st-Season.jpg",
+"url":"https://smoothpre.com/file/hf36q1ar3xxf",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"isHost": "true",
+"online":"true"
+},
+{
+"name": "Episodio 01x09",
+"info":"[Español]",
+"image": "https://i.postimg.cc/k4TV2w4Q/The-Simpsons-The-Complete-1st-Season.jpg",
+"url":"https://smoothpre.com/file/xxt18jmtqxvn",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"isHost": "true",
+"online":"true"
+},
+{
+"name": "Episodio 01x10",
+"info":"[Español]",
+"image": "https://i.postimg.cc/k4TV2w4Q/The-Simpsons-The-Complete-1st-Season.jpg",
+"url":"https://smoothpre.com/file/szlbiptr5wmb",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"isHost": "true",
+"online":"true"
+},
+{
+"name": "Episodio 01x11",
+"info":"[Español]",
+"image": "https://i.postimg.cc/k4TV2w4Q/The-Simpsons-The-Complete-1st-Season.jpg",
+"url":"https://smoothpre.com/file/9p209rfzqe7z",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"isHost": "true",
+"online":"true"
+},
+{
+"name": "Episodio 01x12",
+"info":"[Español]",
+"image": "https://i.postimg.cc/k4TV2w4Q/The-Simpsons-The-Complete-1st-Season.jpg",
+"url":"https://smoothpre.com/file/9joi421b2xoy",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"isHost": "true",
+"online":"true"
+},
+{
+"name": "Episodio 01x13",
+"info":"[Español]",
+"image": "https://i.postimg.cc/k4TV2w4Q/The-Simpsons-The-Complete-1st-Season.jpg",
+"url":"https://smoothpre.com/file/9joi421b2xoy",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"isHost": "true",
+"online":"true"
+}
+]
+},
+
+{
+"name": "Los Simpson Temp-36",
+"info":"Temporada 36",
 "image":
 "https://i.postimg.cc/9Mjbk596/ANZQ6-UFJS5-C6-LJUICMPAGSEJ7-U.jpg",
 "imageScale": "",
