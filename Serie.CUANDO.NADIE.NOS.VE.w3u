@@ -1,0 +1,65 @@
+{
+    "name": "CUANDO NADIE NOS VE",
+    "author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+    "image": "https://i.postimg.cc/J0DvnLbs/cuando.jpg",
+    "url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie.CUANDO.NADIE.NOS.VE.w3u",
+    "telegram": "TINWORLD_3_0",
+    "info":"",
+    "groups":
+               [
+ 		{
+		"name": "Temporada 01",
+ 		"image": "https://i.postimg.cc/J0DvnLbs/cuando.jpg",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"[Español]",
+ 				"image":"https://i.postimg.cc/J0DvnLbs/cuando.jpg",
+ 				"url":"https://nathanfromsubject.com/hnpxywhsccdi",
+          		"userAgent": "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"[Español]",
+				"image":"https://i.postimg.cc/J0DvnLbs/cuando.jpg",
+				"url":"https://nathanfromsubject.com/5elw0tuvah3i",
+          		"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"[Español]",
+				"image":"https://i.postimg.cc/J0DvnLbs/cuando.jpg",
+				"url":"https://nathanfromsubject.com/ioat28ivte95",
+          		"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"[Español]",
+				"image":"https://i.postimg.cc/J0DvnLbs/cuando.jpg",
+				"url":"https://nathanfromsubject.com/uuscpwvvaqi5",
+          		"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"[Español]",
+				"image":"https://i.postimg.cc/J0DvnLbs/cuando.jpg",
+				"url":"https://nathanfromsubject.com/z7doejiaeh4p",
+          		"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}
