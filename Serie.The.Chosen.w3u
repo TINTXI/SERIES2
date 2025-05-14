@@ -329,6 +329,24 @@
 		        "isHost": "true",
                 "online":"true"
                 }
+               ]
+              },
+        {
+        "name": "The Chosen - Especial Navidad",
+        "info":"",
+        "image": "https://i.postimg.cc/15mYYd2F/e30d89d6f694a88dd8cbaf2742cca020d5c12d6b35936484c4190769e275f083.jpg",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Noche Santa",
+                "info":"",
+                "image": "https://i.postimg.cc/15mYYd2F/e30d89d6f694a88dd8cbaf2742cca020d5c12d6b35936484c4190769e275f083.jpg",
+                "url":"https://filemoon.to/d/2pb5y7i4jyhm",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+		        "isHost": "true",
+                "online":"true"
+                }
 		    ]
 	    }
 	]
