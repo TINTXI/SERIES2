@@ -5,6 +5,11 @@
 "url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie.LA.FAVORITA.1922.w3u",
 "telegram": "TINWORLD_3_0",
 "info":"",
+"groups":
+[
+{
+"name": "TEMPORADA 1",
+"image": "https://pics.filmaffinity.com/la_favorita_1922-555333376-large.jpg",
 "stations":
 [
 {
@@ -80,8 +85,63 @@
 "import": false
 },
 {
-"name": "CAPITULO 7-PROXIMAMENTE",
+"name": "CAPITULO 7",
 "image": "https://i.postimg.cc/wBJrT4PW/La-favorita-poster.jpg",
+"url": "https://listeamed.net/v/mMq75L6AK1wEXPB",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://i.postimg.cc/wBJrT4PW/La-favorita-poster.jpg",
+"url": "https://listeamed.net/v/JzkPxzwLvj8Ebyd",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+},
+{
+"name": "TEMPORADA 2",
+"image": "https://pics.filmaffinity.com/la_favorita_1922-555333376-large.jpg",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/la_favorita_1922-555333376-large.jpg",
+"url": "https://filemoon.to/d/s5e1dea7ln7u/Ver_La_favorita_1922_2x1_online_en_castellano_-_HDFull.tv.mp4",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/la_favorita_1922-555333376-large.jpg",
+"url": "https://filemoon.to/d/4auar22hq2jc/Ver_La_favorita_1922_2x2_online_en_castellano_-_HDFull.tv.mp4",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3-PRÓXIMAMENTE",
+"image": "https://pics.filmaffinity.com/la_favorita_1922-555333376-large.jpg",
 "url": "",
 "info": "[Español 2025]",
 "userAgent":"PlusMediaPlayer/0.0.9",
@@ -92,8 +152,8 @@
 "import": false
 },
 {
-"name": "CAPITULO 8-PROXIMAMENTE",
-"image": "https://i.postimg.cc/wBJrT4PW/La-favorita-poster.jpg",
+"name": "CAPITULO 4-PRÓXIMAMENTE",
+"image": "https://pics.filmaffinity.com/la_favorita_1922-555333376-large.jpg",
 "url": "",
 "info": "[Español 2025]",
 "userAgent":"PlusMediaPlayer/0.0.9",
@@ -102,6 +162,56 @@
 "isHost": "true",
 "online": "true",
 "import": false
+},
+{
+"name": "CAPITULO 5-PRÓXIMAMENTE",
+"image": "https://pics.filmaffinity.com/la_favorita_1922-555333376-large.jpg",
+"url": "",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6-PRÓXIMAMENTE",
+"image": "https://pics.filmaffinity.com/la_favorita_1922-555333376-large.jpg",
+"url": "",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 7+ PRÓXIMAMENTE",
+"image": "https://pics.filmaffinity.com/la_favorita_1922-555333376-large.jpg",
+"url": "",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 8- PRÓXIMAMENTE",
+"image": "https://pics.filmaffinity.com/la_favorita_1922-555333376-large.jpg",
+"url": "",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
 }
 ]
 }
