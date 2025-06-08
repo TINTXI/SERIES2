@@ -60,7 +60,7 @@
                 "online":"true"
                 } 
 		]
-        },
+},
 {
         "name": "TEMPORADA 2",
         "info":"PRÓXIMAMENTE",
@@ -186,7 +186,257 @@
                 "online":"true"
                 }
 	]
-}
+},
+{
+        "name": "TEMPORADA 3",
+        "info":"PRÓXIMAMENTE",
+        "image": "https://i.postimg.cc/Xqz567qj/71w-TRf22k-NL-AC-UF894-1000-QL80.jpg",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "CAPITULO 1",
+                "info":"PRÓXIMAMENTE",
+                "image": "https://i.postimg.cc/Xqz567qj/71w-TRf22k-NL-AC-UF894-1000-QL80.jpg",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+{
+                "name": "CAPITULO 2",
+                "info":"PRÓXIMAMENTE",
+                "image": "https://i.postimg.cc/Xqz567qj/71w-TRf22k-NL-AC-UF894-1000-QL80.jpg",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+{
+                "name": "CAPITULO 3",
+                "info":"PRÓXIMAMENTE",
+                "image": "https://i.postimg.cc/Xqz567qj/71w-TRf22k-NL-AC-UF894-1000-QL80.jpg",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+{
+                "name": "CAPITULO 4",
+                "info":"PRÓXIMAMENTE",
+                "image": "https://i.postimg.cc/Xqz567qj/71w-TRf22k-NL-AC-UF894-1000-QL80.jpg",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+{
+                "name": "CAPITULO 5",
+                "info":"PRÓXIMAMENTE",
+                "image": "https://i.postimg.cc/Xqz567qj/71w-TRf22k-NL-AC-UF894-1000-QL80.jpg",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+{
+                "name": "CAPITULO 6",
+                "info":"PRÓXIMAMENTE",
+                "image": "https://i.postimg.cc/Xqz567qj/71w-TRf22k-NL-AC-UF894-1000-QL80.jpg",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+{
+                "name": "CAPITULO 7",
+                "info":"PRÓXIMAMENTE",
+                "image": "https://i.postimg.cc/Xqz567qj/71w-TRf22k-NL-AC-UF894-1000-QL80.jpg",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+{
+                "name": "CAPITULO 8",
+                "info":"PRÓXIMAMENTE",
+                "image": "https://i.postimg.cc/Xqz567qj/71w-TRf22k-NL-AC-UF894-1000-QL80.jpg",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+{
+                "name": "CAPITULO 9",
+                "info":"PRÓXIMAMENTE",
+                "image": "https://i.postimg.cc/Xqz567qj/71w-TRf22k-NL-AC-UF894-1000-QL80.jpg",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+{
+                "name": "CAPITULO 10",
+                "info":"PRÓXIMAMENTE",
+                "image": "https://i.postimg.cc/Xqz567qj/71w-TRf22k-NL-AC-UF894-1000-QL80.jpg",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+{
+                "name": "CAPITULO 11",
+                "info":"PRÓXIMAMENTE",
+                "image": "https://i.postimg.cc/Xqz567qj/71w-TRf22k-NL-AC-UF894-1000-QL80.jpg",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+{
+                "name": "CAPITULO 12",
+                "info":"PRÓXIMAMENTE",
+                "image": "https://i.postimg.cc/Xqz567qj/71w-TRf22k-NL-AC-UF894-1000-QL80.jpg",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+{
+                "name": "CAPITULO 13",
+                "info":"PRÓXIMAMENTE",
+                "image": "https://i.postimg.cc/Xqz567qj/71w-TRf22k-NL-AC-UF894-1000-QL80.jpg",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+]
+},
+{
+        "name": "TEMPORADA 4",
+        "info":"PRÓXIMAMENTE",
+        "image": "https://i.postimg.cc/wMjxjJMX/f029a66a10b4526092ca32329c595773.jpg",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "CAPITULO 1",
+                "info":"PRÓXIMAMENTE",
+                "image": "https://i.postimg.cc/wMjxjJMX/f029a66a10b4526092ca32329c595773.jpg",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+{
+                "name": "CAPITULO 2",
+                "info":"PRÓXIMAMENTE",
+                "image": "https://i.postimg.cc/wMjxjJMX/f029a66a10b4526092ca32329c595773.jpg",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+{
+                "name": "CAPITULO 3",
+                "info":"PRÓXIMAMENTE",
+                "image": "https://i.postimg.cc/wMjxjJMX/f029a66a10b4526092ca32329c595773.jpg",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+{
+                "name": "CAPITULO 4",
+                "info":"PRÓXIMAMENTE",
+                "image": "https://i.postimg.cc/wMjxjJMX/f029a66a10b4526092ca32329c595773.jpg",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+{
+                "name": "CAPITULO 5",
+                "info":"PRÓXIMAMENTE",
+                "image": "https://i.postimg.cc/wMjxjJMX/f029a66a10b4526092ca32329c595773.jpg",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+{
+                "name": "CAPITULO 6",
+                "info":"PRÓXIMAMENTE",
+                "image": "https://i.postimg.cc/wMjxjJMX/f029a66a10b4526092ca32329c595773.jpg",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+{
+                "name": "CAPITULO 7",
+                "info":"PRÓXIMAMENTE",
+                "image": "https://i.postimg.cc/wMjxjJMX/f029a66a10b4526092ca32329c595773.jpg",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+{
+                "name": "CAPITULO 8",
+                "info":"PRÓXIMAMENTE",
+                "image": "https://i.postimg.cc/wMjxjJMX/f029a66a10b4526092ca32329c595773.jpg",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+{
+                "name": "CAPITULO 9",
+                "info":"PRÓXIMAMENTE",
+                "image": "https://i.postimg.cc/wMjxjJMX/f029a66a10b4526092ca32329c595773.jpg",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+{
+                "name": "CAPITULO 10",
+                "info":"PRÓXIMAMENTE",
+                "image": "https://i.postimg.cc/wMjxjJMX/f029a66a10b4526092ca32329c595773.jpg",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+{
+                "name": "CAPITULO 11",
+                "info":"PRÓXIMAMENTE",
+                "image": "https://i.postimg.cc/wMjxjJMX/f029a66a10b4526092ca32329c595773.jpg",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+{
+                "name": "CAPITULO 12",
+                "info":"PRÓXIMAMENTE",
+                "image": "https://i.postimg.cc/wMjxjJMX/f029a66a10b4526092ca32329c595773.jpg",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+{
+                "name": "CAPITULO 13",
+                "info":"PRÓXIMAMENTE",
+                "image": "https://i.postimg.cc/wMjxjJMX/f029a66a10b4526092ca32329c595773.jpg",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
 ]
 }
 ]
