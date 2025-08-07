@@ -1,0 +1,99 @@
+{
+    "name": "MIERCOLES (Temp. 2)",
+    "author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+    "image": "https://i.postimg.cc/hhWSsVn9/Gxs-YMwl-Wc-AAa-Vg.jpg",
+    "url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie.Miercoles.Temp.2.w3u",
+    "telegram": "TINWORLD_3_0",
+    "info":"",
+    "stations":
+               [
+     {
+        "name": "CAPITULO 2x01",
+            "image": "https://i.postimg.cc/hhWSsVn9/Gxs-YMwl-Wc-AAa-Vg.jpg",
+            "url": "https://filemoon.to/d/n90xquv6eii4/Ver_Cicatriz_1x01_1080.mp4",
+               "info": "2024[TINWORLD]",
+               "embed": "",
+               "isHost": "true",
+               "online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+               "import": false
+               },
+        {
+        "name": "CAPITULO 2x02",
+            "image": "https://i.postimg.cc/hhWSsVn9/Gxs-YMwl-Wc-AAa-Vg.jpg",
+            "url": "https://filemoon.to/d/38shy7eu6fau/Ver_Cicatriz_1x02_1080.mp4",
+               "info": "2024[TINWORLD]",
+               "embed": "",
+               "isHost": "true",
+               "online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+               "import": false
+               },
+        {
+        "name": "CAPITULO 2x03",
+            "image": "https://i.postimg.cc/hhWSsVn9/Gxs-YMwl-Wc-AAa-Vg.jpg",
+            "url": "https://filemoon.to/d/su0cjf7ojezb/Ver_Cicatriz_1x03_1080.mp4",
+               "info": "2024[TINWORLD]",
+               "embed": "",
+               "isHost": "true",
+               "online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+               "import": false
+               },
+        {
+        "name": "CAPITULO 2x04",
+            "image": "https://i.postimg.cc/hhWSsVn9/Gxs-YMwl-Wc-AAa-Vg.jpg",
+            "url": "https://filemoon.to/d/33zdj6tuehws/Ver_Cicatriz_1x04_1080.mp4",
+               "info": "2024[TINWORLD]",
+               "embed": "",
+               "isHost": "true",
+               "online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+               "import": false
+               },
+        {
+        "name": "CAPITULO 2x05-próximamente",
+            "image": "https://i.postimg.cc/hhWSsVn9/Gxs-YMwl-Wc-AAa-Vg.jpg",
+            "url": "",
+               "info": "2025[TINWORLD]",
+               "embed": "",
+               "isHost": "true",
+               "online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+               "import": false
+               },
+        {
+        "name": "CAPITULO 2x06-próximamente",
+            "image": "https://i.postimg.cc/hhWSsVn9/Gxs-YMwl-Wc-AAa-Vg.jpg",
+            "url": "",
+               "info": "2025[TINWORLD]",
+               "embed": "",
+               "isHost": "true",
+               "online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+               "import": false
+               },
+        {
+        "name": "CAPITULO 2x07-próximamente",
+            "image": "https://i.postimg.cc/hhWSsVn9/Gxs-YMwl-Wc-AAa-Vg.jpg",
+            "url": "",
+               "info": "2025[TINWORLD]",
+               "embed": "",
+               "isHost": "true",
+               "online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+               "import": false
+               },
+        {
+        "name": "CAPITULO 2x08- próximamente",
+            "image": "https://i.postimg.cc/hhWSsVn9/Gxs-YMwl-Wc-AAa-Vg.jpg",
+            "url": "",
+               "info": "2025[TINWORLD]",
+               "embed": "",
+               "isHost": "true",
+               "online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+               "import": false
+               }
+    ]
+    }
