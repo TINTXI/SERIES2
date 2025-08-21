@@ -8,6 +8,13 @@
     "groups":
                [
 {
+        "name": "El Juego del Calamar 1",
+        "info":"Temporada 1 ( 2021 )",
+        "image": "https://i.postimg.cc/MZcsJvQ6/El-juego-del-calamar.jpg",
+        "imageScale": "",
+        "stations":
+        [
+{
                 "name": "Episodio 01",
                 "info":"[Español]",
                 "image": "https://i.postimg.cc/MZcsJvQ6/El-juego-del-calamar.jpg",
