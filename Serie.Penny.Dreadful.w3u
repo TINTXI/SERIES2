@@ -9,7 +9,7 @@
         [			
         {
         "name": "TEMPORADA 1",
-        "info":"",
+        "info":"2014",
         "image": "https://i.postimg.cc/Bnn8CVBk/IMG-20250930-194436-957.jpg",
         "imageScale": "",
         "stations":
@@ -90,7 +90,7 @@
 },
 {
         "name": "TEMPORADA 2",
-        "info":"PRÓXIMAMENTE",
+        "info":"PRÓXIMAMENTE-2015",
         "image": "https://i.postimg.cc/SRHZGMBQ/IMG-20250930-200055-573.jpg",
         "imageScale": "",
         "stations":
@@ -189,7 +189,7 @@
 },
 {
         "name": "TEMPORADA 3",
-        "info":"PRÓXIMAMENTE",
+        "info":"PRÓXIMAMENTE-2016",
         "image": "https://i.postimg.cc/WzVmp7cg/IMG-20250930-200251-318.jpg",
         "imageScale": "",
         "stations":
