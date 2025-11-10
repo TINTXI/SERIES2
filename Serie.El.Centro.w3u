@@ -5,13 +5,6 @@
 "url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie.El.Centro.w3u",
 "telegram": "TINWORLD_3_0",
 "info":"",
-"groups":
-[
-{
-"name": "TEMPORADA 1",
-"info":"2025",
-"image": "https://pics.filmaffinity.com/El_Centro_Serie_de_TV-288954481-large.jpg",
-"imageScale": "",
 "stations":
 [
 {
@@ -97,8 +90,6 @@
 "isHost": "true",
 "online": "true",
 "import": "false"
-}
-]
 }
 ]
 }
