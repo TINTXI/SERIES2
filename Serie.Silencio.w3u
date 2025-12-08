@@ -1,0 +1,41 @@
+{
+    "name": "SILENCIO",
+    "author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+    "image": "https://pics.filmaffinity.com/silencio-199090984-large.jpg",
+    "url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie.Silencio.w3u",
+    "telegram": "TINWORLD_3_0",
+    "info":"2025",
+    "stations":
+               [
+    {
+ 		"name": "Episodio 01",
+ 		"info":"2025",
+ 		"image":"https://pics.filmaffinity.com/silencio-199090984-large.jpg",
+ 		"url":"https://supervideo.cc/e/mf6jdmhwxzee",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+		{
+		"name": "Episodio 02",
+		"info":"2025",
+		"image":"https://pics.filmaffinity.com/silencio-199090984-large.jpg",
+		"url":"https://supervideo.cc/e/slhnqr45bp1q",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 03",
+		"info":"2025",
+		"image":"https://pics.filmaffinity.com/silencio-199090984-large.jpg",
+		"url":"https://supervideo.cc/e/zto5l93iklld",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		}
+   ]
+  }
+
+]
+}
