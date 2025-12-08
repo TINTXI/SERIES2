@@ -9,33 +9,42 @@
                [
     {
  		"name": "Episodio 01",
- 		"info":"2025",
  		"image":"https://pics.filmaffinity.com/silencio-199090984-large.jpg",
  		"url":"https://supervideo.cc/e/mf6jdmhwxzee",
-		"userAgent":"PlusMediaPlayer/0.0.9",
- 		"isHost":"true",
- 		"online":"true"
+		"info": "[Español 2025]",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+        "referer": "",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+        "import": false
 		},
 		{
 		"name": "Episodio 02",
-		"info":"2025",
 		"image":"https://pics.filmaffinity.com/silencio-199090984-large.jpg",
 		"url":"https://supervideo.cc/e/slhnqr45bp1q",
-		"userAgent":"PlusMediaPlayer/0.0.9",
-		"isHost":"true",
-		"online":"true"
+		"info": "[Español 2025]",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+        "referer": "",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+        "import": false
 		},
 		{
 		"name": "Episodio 03",
-		"info":"2025",
 		"image":"https://pics.filmaffinity.com/silencio-199090984-large.jpg",
 		"url":"https://supervideo.cc/e/zto5l93iklld",
-		"userAgent":"PlusMediaPlayer/0.0.9",
-		"isHost":"true",
-		"online":"true"
+		"info": "[Español 2025]",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+        "referer": "",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+        "import": false
 		}
-   ]
-  }
+      ]
+    }
 
 ]
 }
